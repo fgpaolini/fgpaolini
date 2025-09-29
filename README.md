@@ -30,7 +30,7 @@ const Fernando : Developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fgpaolini&theme=algolia" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=algolia&exclude_days=Sun%2CSat&background=030314&excludeDaysLabel=030314&border=85A4C0" alt="GitHub Streak" />
 </div>
 
 ## 📫 Connect with me
