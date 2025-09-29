@@ -5,7 +5,7 @@ const Fernando : Developer = {
     role: "Full-Stack Explorer 🚀",
     location: "Spain 🇪🇸",
     from: ["Venezuela 🇻🇪", "Italy 🇮🇹"],
-    hobbies: [Hobbies.Tech, Hobies.Gaming, Hobbies.VideoEditing],
+    hobbies: [Hobbies.Tech, Hobbies.Gaming, Hobbies.VideoEditing],
     style: "Clean code > spaghetti code 🍝"
 };
 ```
