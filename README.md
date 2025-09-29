@@ -47,5 +47,5 @@ const Fernando : Developer = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=fgpaolini&style=flat-square&color=blue" alt="Profile Views" />
   
-  ⭐🌌<em>May the code be with you!</em>⚡⭐
+  ⭐🌌 <em>May the code be with you!</em> ⚡⭐
 </div>
