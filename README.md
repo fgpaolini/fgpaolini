@@ -25,12 +25,12 @@ const Fernando : Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fgpaolini&theme=holi&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgpaolini&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fgpaolini&exclude_repo=Portal-v4&theme=holi&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgpaolini&exclude_repo=Portal-v4&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fgpaolini&theme=holi&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fgpaolini&exclude_repo=Portal-v4&theme=holi&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ## 📫 Connect with me
